@@ -1,11 +1,11 @@
 baseurl = "https://kennysuper007.github.io/" 
 title = "天樞文理補習班"
 theme = "hugo-universal-theme"
-themesDir = "/Users/kenny/Desktop/TianShu/themes"
 languageCode = "zh-tw"
 defaultContentLanguage = "zh-tw"
 disqusShortname = "devcows"
 googleAnalytics = ""
+
 
 # number of words of summarized post content (default 70)
 summaryLength = 70

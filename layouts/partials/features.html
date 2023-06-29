@@ -17,7 +17,7 @@ if isset .Site.Data "features" }} {{ if gt (len .Site.Data.features) 0 }}
       <div
         class="col-md-{{ div 12 $elements }} col-{{ $j }} col-{{ if eq (mod $j 2) 0 }}odd{{ else }}even{{ end }}"
       >
-        <div class="box-simple">
+        <div class="box-simple" style="margin-bottom: -30px">
           {{ with $element.url }}
           <a href="{{ $element.url }}">
             {{ end }}

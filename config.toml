@@ -56,104 +56,104 @@ pluralizelisttitles = false
 #     weight     = 5
 #     parent     = "menu.home"
 
-[[menu.main]]
-    name       = "學期課程"
-    identifier = "menu.features"
-    url        = "/img/course.jpg"
-    weight     = 2
+# [[menu.main]]
+#     name       = "學期課程"
+#     identifier = "menu.features"
+#     url        = "/img/course.jpg"
+#     weight     = 2
 
-[[menu.main]]
-    name       = "安親課程"
-    identifier = "section.shortcodes"
-    url        = ""
-    weight     = 1
-    parent     = "menu.features"
-    post       = 1
+# [[menu.main]]
+#     name       = "安親課程"
+#     identifier = "section.shortcodes"
+#     url        = ""
+#     weight     = 1
+#     parent     = "menu.features"
+#     post       = 1
 
-[[menu.main]]
-    name       = "選修課程"
-    identifier = "section.headervariations"
-    url        = ""
-    weight     = 2
-    parent     = "menu.features"
-    post       = 2
+# [[menu.main]]
+#     name       = "選修課程"
+#     identifier = "section.headervariations"
+#     url        = ""
+#     weight     = 2
+#     parent     = "menu.features"
+#     post       = 2
 
-[[menu.main]]
-    name       = "KG學前"
-    url        = ""
-    weight     = 1
-    parent     = "section.shortcodes"
+# [[menu.main]]
+#     name       = "KG學前"
+#     url        = ""
+#     weight     = 1
+#     parent     = "section.shortcodes"
 
-[[menu.main]]
-    name       = "G1一年級"
-    url        = ""
-    weight     = 2
-    parent     = "section.shortcodes"
+# [[menu.main]]
+#     name       = "G1一年級"
+#     url        = ""
+#     weight     = 2
+#     parent     = "section.shortcodes"
 
-[[menu.main]]
-    name       = "G2二年級"
-    url        = ""
-    weight     = 3
-    parent     = "section.shortcodes"
+# [[menu.main]]
+#     name       = "G2二年級"
+#     url        = ""
+#     weight     = 3
+#     parent     = "section.shortcodes"
 
-[[menu.main]]
-    name       = "G3三年級"
-    url        = ""
-    weight     = 4
-    parent     = "section.shortcodes"
+# [[menu.main]]
+#     name       = "G3三年級"
+#     url        = ""
+#     weight     = 4
+#     parent     = "section.shortcodes"
 
-[[menu.main]]
-    name       = "G4四年級"
-    url        = ""
-    weight     = 5
-    parent     = "section.shortcodes"
+# [[menu.main]]
+#     name       = "G4四年級"
+#     url        = ""
+#     weight     = 5
+#     parent     = "section.shortcodes"
 
-[[menu.main]]
-    name       = "G5五年級"
-    url        = ""
-    weight     = 6
-    parent     = "section.shortcodes"
+# [[menu.main]]
+#     name       = "G5五年級"
+#     url        = ""
+#     weight     = 6
+#     parent     = "section.shortcodes"
 
-[[menu.main]]
-    name       = "G6五年級"
-    url        = ""
-    weight     = 7
-    parent     = "section.shortcodes"
+# [[menu.main]]
+#     name       = "G6五年級"
+#     url        = ""
+#     weight     = 7
+#     parent     = "section.shortcodes"
 
-[[menu.main]]
-    name       = "夏令營"
-    url        = ""
-    weight     = 8
-    parent     = "section.shortcodes"
-[[menu.main]]
-    name       = "冬令營"
-    url        = ""
-    weight     = 9
-    parent     = "section.shortcodes"
+# [[menu.main]]
+#     name       = "夏令營"
+#     url        = ""
+#     weight     = 8
+#     parent     = "section.shortcodes"
+# [[menu.main]]
+#     name       = "冬令營"
+#     url        = ""
+#     weight     = 9
+#     parent     = "section.shortcodes"
 
-[[menu.main]]
-    name       = "美語天天練+課輔共學(G1~G6)"
-    url        = ""
-    weight     = 1
-    parent     = "section.headervariations"
+# [[menu.main]]
+#     name       = "美語天天練+課輔共學(G1~G6)"
+#     url        = ""
+#     weight     = 1
+#     parent     = "section.headervariations"
 
-[[menu.main]]
-    name       = "紅火作文(G1~G6)"
-    url        = ""
-    weight     = 2
-    parent     = "section.headervariations"
+# [[menu.main]]
+#     name       = "紅火作文(G1~G6)"
+#     url        = ""
+#     weight     = 2
+#     parent     = "section.headervariations"
 
-[[menu.main]]
-    name       = "珠心算(+-x÷速算)(幼K~G6)"
-    url        = ""
-    weight     = 3
-    parent     = "section.headervariations"
+# [[menu.main]]
+#     name       = "珠心算(+-x÷速算)(幼K~G6)"
+#     url        = ""
+#     weight     = 3
+#     parent     = "section.headervariations"
 
-[[menu.main]]
-    name       = "奧林匹克數學(幼K~G6)"
-    url        = ""
-    weight     = 3
-    parent     = "section.headervariations"
+# [[menu.main]]
+#     name       = "奧林匹克數學(幼K~G6)"
+#     url        = ""
+#     weight     = 3
+#     parent     = "section.headervariations"
 
 # [[menu.main]]
 #     name       = "Portfolio"
@@ -343,23 +343,23 @@ pluralizelisttitles = false
 #     weight     = 1
 #     parent     = "section.ap-blog"
 
-[[menu.main]]
-    name       = "天樞精選"
-    identifier = "menu.blog"
-    url        = "/blog/"
-    weight     = 5
+# [[menu.main]]
+#     name       = "天樞精選"
+#     identifier = "menu.blog"
+#     url        = "/blog/"
+#     weight     = 5
 
-[[menu.main]]
-    name       = "品牌故事"
-    identifier = "menu.faq"
-    url        = "/faq/"
-    weight     = 6
+# [[menu.main]]
+#     name       = "品牌故事"
+#     identifier = "menu.faq"
+#     url        = "/faq/"
+#     weight     = 6
 
-[[menu.main]]
-    identifier = "contact"
-    name       = "聯絡我們"
-    url        = "/contact/"
-    weight     = 7
+# [[menu.main]]
+#     identifier = "contact"
+#     name       = "聯絡我們"
+#     url        = "/contact/"
+#     weight     = 7
 
 
 # Top bar social links menu
@@ -450,7 +450,37 @@ pluralizelisttitles = false
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
+    
+    governmentFiling = """
+    <style>
+        /* Custom CSS to adjust the size and spacing of the icons */
+        .social-icon {
+        font-size: 2.0em;  /* Increase the icon size */
+        margin-right: 20px;  /* Add some spacing to the right of each icon */
+        }
+    </style>
+    <p style="font-size: 1.5em;">    
+        <a target="_blank" class="fas fa-building social-icon"></a>
+        府教社字第1080060589號
+    </p>
+    """
+    closeToSchool = """
+    <style>
+        /* Custom CSS to adjust the size and spacing of the icons */
+        .social-icon {
+        font-size: 2.0em;  /* Increase the icon size */
+        margin-right: 20px;  /* Add some spacing to the right of each icon */
+        }
+    </style>
+    <p style="font-size: 1.5em;">    
+        <a href="https://goo.gl/maps/6pxSFDYeRrn2Aauh7" target="_blank" class="fas fa-map-marked-alt social-icon"></a>
+        新竹市新竹市長春街140號
+    </p>
+    """
+    
     about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+
+
     copyright = "© 版權所有 天樞文理補習班 網頁設計 Bootstrapious"
 
     # Format dates with Go's time formatting
@@ -473,18 +503,20 @@ pluralizelisttitles = false
       </p>
       """
     message = """
-      <style>
-    /* Custom CSS to adjust the size and spacing of the icons */
-    .social-icon {
-      font-size: 2.5em;  /* Increase the icon size */
-      margin-right: 20px;  /* Add some spacing to the right of each icon */
-    }
-  </style>
-    <p>
-    <a href="https://www.facebook.com/BigDiggrr6681668/" target="_blank" class="fab fa-facebook-f social-icon"></a>
-    <a href="https://line.me/R/ti/p/@YourPageName" target="_blank" class="fab fa-line social-icon"></a>
-      </p>
-        """
+    <style>
+        /* Custom CSS to adjust the size and spacing of the icons */
+        .social-icon {
+        font-size: 2.0em;  /* Increase the icon size */
+        margin-right: 20px;  /* Add some spacing to the right of each icon */
+        }
+    </style>
+    <p style="font-size: 1.5em;">
+        <a href="https://www.facebook.com/BigDiggrr6681668/" target="_blank" class="fab fa-facebook-f social-icon"></a>
+        <a href="line://ti/p/@713tsrkw" target="_blank" class="fab fa-line social-icon"></a>
+        <a href="tel:03-6661668" target="_blank" class="fas fa-phone social-icon"></a>
+        03-6661668
+    </p>
+    """
 
 [permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
@@ -533,7 +565,7 @@ pluralizelisttitles = false
     # For more information take a look at the README.
 
 [params.testimonials]
-    enable = true
+    enable = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more information take a look at the README.
@@ -542,11 +574,11 @@ pluralizelisttitles = false
 
 [params.see_more]
     enable = true
-    icon = "far fa-file-alt"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
+    icon = "fas fa-exclamation"
+    title = "是要賣糖水？ 還是和我們一起改變世界？"
+    subtitle = ""
+    link_url = ""
+    link_text = ""
 
 [params.clients]
     enable = false

@@ -492,7 +492,7 @@ pluralizelisttitles = false
     logo_text = "北斗七星文教"
 
     logo = "img/logo.png"
-    # logo_small = "img/logo-small.png"
+    logo_small = "img/logo-small.png"
 
     
     contact_url = "/contact/"

@@ -1,13 +1,13 @@
 /* Themed colors */
 :root {
-  --primary-accent: #c27baa;
-  --navbar-border-top: #934478;
-  --button-border: #af518f;
-  --link-focus: #a44c87;
-  --form-shadow: rgba(194, 123, 170, 0.6);
-  --pagination-bg: #f2e4ed;
-  --link-hover-bg: #b25894;
-  --navbar-focus: #e2c1d7;
+  --primary-accent: #467fbf;
+  --navbar-border-top: #294d76;
+  --button-border: #336194;
+  --link-focus: #2f5a89;
+  --form-shadow: rgba(70, 127, 191, 0.6);
+  --pagination-bg: #b8cee6;
+  --link-hover-bg: #36669c;
+  --navbar-focus: #92b3d9;
 }
 
 .clearfix:before,
@@ -1163,12 +1163,6 @@ fieldset[disabled] .btn-template-primary.active {
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
-}
-.top-image {
-  position: relative;
-  background: url('../img/fixed-background-2.jpg') center center repeat;
-  padding: 60px 0;
-  color: white; /* Add this line */
 }
 .home-carousel .dark-mask {
   position: absolute;
@@ -3105,7 +3099,7 @@ fieldset[disabled] .btn-template-primary.active {
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
   color: #555555;
-  background-color: var(--navbar-focus)
+  background-color: var(--navbar-focus);
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,

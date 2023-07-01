@@ -1,13 +1,13 @@
 /* Themed colors */
 :root {
-  --primary-accent: #c27baa;
-  --navbar-border-top: #934478;
-  --button-border: #af518f;
-  --link-focus: #a44c87;
-  --form-shadow: rgba(194, 123, 170, 0.6);
-  --pagination-bg: #f2e4ed;
-  --link-hover-bg: #b25894;
-  --navbar-focus: #e2c1d7;
+  --primary-accent: #4fbfa8;
+  --navbar-border-top: #2d7b6b;
+  --button-border: #389985;
+  --link-focus: #348e7b;
+  --form-shadow: rgba(79, 191, 168, 0.6);
+  --pagination-bg: #bfe8df;
+  --link-hover-bg: #3aa18c;
+  --navbar-focus: #9adacd;
 }
 
 .clearfix:before,
@@ -1164,12 +1164,6 @@ fieldset[disabled] .btn-template-primary.active {
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
 }
-.top-image {
-  position: relative;
-  background: url('../img/fixed-background-2.jpg') center center repeat;
-  padding: 60px 0;
-  color: white; /* Add this line */
-}
 .home-carousel .dark-mask {
   position: absolute;
   top: 0;
@@ -1747,7 +1741,7 @@ fieldset[disabled] .btn-template-primary.active {
   border: none;
 }
 #heading-breadcrumbs {
-  background: url('../img/texture-bw.png') center center repeat;
+  background: url('../img/texture-turquoise.png') center center repeat;
   padding: 20px 0;
   margin-bottom: 40px;
 }
@@ -1776,7 +1770,7 @@ fieldset[disabled] .btn-template-primary.active {
   padding: 60px 0;
 }
 .bar.background-pentagon {
-  background: url('../img/texture-bw.png') center center repeat;
+  background: url('../img/texture-turquoise.png') center center repeat;
   border-top: solid 1px #999999;
   border-bottom: solid 1px #999999;
 }
@@ -3105,7 +3099,7 @@ fieldset[disabled] .btn-template-primary.active {
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
   color: #555555;
-  background-color: var(--navbar-focus)
+  background-color: var(--navbar-focus);
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,

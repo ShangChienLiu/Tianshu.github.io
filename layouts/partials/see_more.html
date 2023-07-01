@@ -1,6 +1,6 @@
 {{ if isset .Site.Params "see_more" }} {{ if .Site.Params.see_more.enable }}
 <section
-  class="top-image"
+  class="top-image text-center"
   style="
     height: 400px;
     background-size: cover;
@@ -19,6 +19,9 @@
         </h2>
         <h2 class="text-uppercase">
           {{ .Site.Params.see_more.subtitle | markdownify }}
+        </h2>
+        <h2 class="text-uppercase">
+          {{ .Site.Params.see_more.subsubtitle | markdownify }}
         </h2>
         <!-- <p class="lead">{{ .Site.Params.see_more.subtitle | markdownify }}</p> -->
         <p>

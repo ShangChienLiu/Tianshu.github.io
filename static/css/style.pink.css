@@ -79,6 +79,7 @@ button {
 .text-uppercase {
   text-transform: uppercase;
   letter-spacing: 0.08em;
+  font-size: 40px;
   color: whitesmoke; /* This line might be redundant when text-fill-color and text-stroke are supported */
   -webkit-text-fill-color: white; /* Set the fill color to white */
   -webkit-text-stroke-width: 1px; /* Define the stroke width */

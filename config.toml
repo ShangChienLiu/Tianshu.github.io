@@ -575,8 +575,9 @@ pluralizelisttitles = false
 [params.see_more]
     enable = true
     icon = "fas fa-exclamation"
-    title = "是要賣糖水？ 還是和我們一起改變世界？"
-    subtitle = ""
+    title = """要繼續賣糖水？"""
+
+    subtitle = """還是……  一起改變世界！"""
     link_url = ""
     link_text = ""
 

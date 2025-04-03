@@ -1,3 +1,4 @@
+/* ✅ 你的原始設定：圖片與區塊高度 */
 .box-image-text .image {
   min-height: 190px;
   max-height: 190px;
@@ -10,4 +11,20 @@
 
 .box-simple {
   min-height: 230px;
+}
+
+
+/* ✅ 新增：中文標題字體設定 */
+h1, h2, h3, h4, h5, h6,
+.navbar-brand,
+.logo-text,
+.text-uppercase {
+  font-family: "Noto Serif TC", "PingFang TC", "Heiti TC", "DFKai-SB", "標楷體", serif;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+}
+
+/* ✅ （可選）整體網站正文字體設定，讓內文也清爽一點 */
+body {
+  font-family: "Noto Sans TC", "PingFang TC", "Heiti TC", "Microsoft JhengHei", "微軟正黑體", sans-serif;
 }

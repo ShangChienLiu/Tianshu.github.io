@@ -14,15 +14,21 @@
 }
 
 
-/* ✅ 新增：中文標題字體設定 */
+/* ✅ 設定標題使用實心字體樣式 */
 h1, h2, h3, h4, h5, h6,
 .navbar-brand,
 .logo-text,
 .text-uppercase {
-  font-family: "Noto Serif TC", "PingFang TC", "Heiti TC", "DFKai-SB", "標楷體", serif;
-  font-weight: 700;
+  font-family: "DFKai-SB", "標楷體", serif;
+  font-weight: bold;
   letter-spacing: 0.05em;
+  color: black;
+
+  /* 移除空心描邊效果（如果之前有） */
+  -webkit-text-stroke: 0;
+  text-shadow: none;
 }
+
 
 /* ✅ （可選）整體網站正文字體設定，讓內文也清爽一點 */
 body {
